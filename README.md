@@ -3,7 +3,7 @@
 A spam email classifier from scratch using a Bag-of-Words and a Naive-Bayes model.
 
 Directory Structure is as follows:
-```
+```bash
 .
 +-- spam.py
 +-- train
