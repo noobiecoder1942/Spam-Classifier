@@ -13,7 +13,7 @@ Directory Structure is as follows:
 ```
 Usage:
 ```
-python3 path_to_train_directory path_to_test_directory output_file_name
+python3 spam.py path_to_train_directory path_to_test_directory output_file_name
 ```
 
 Output Format:
